@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "fluted-karma-340904",
+  "private_key_id": "7f7138e473e276d48124b6ff83098b5969d97b45",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEuwIBADANBgkqhkiG9w0BAQEFAASCBKUwggShAgEAAoIBAQCa8yJJB/Snl9Tv\n+YQqN8H0+lS2pS87epm4UnmsR77/j8NPjscxWMNjyvyutXaRuDOnIaJJYGaoLcUl\nvRruAGnZlVEJSJCngPr9tFW38dafKufSUAXQA+cjJ8EoRSoowYV9QfQ+lbeLbbbs\ngzKqi5KquS8jwV5/Cftg8YtraSK1waNLabudqJrdCh35ZjFJtuSMwKMuHRjaneT4\n6MeLe8C+yiaUFq89e6ThidlAHxziQ3Dq0+EiMUmnrGufKkPEaaVLKfWXSYSYW9Z8\n9mjnbntMRUtIwcD+7ztjhgjH5yOLX8DBdh7QCgjqNlqNAdsVBzR2FLsJo6AlM6mL\nvOloMrS9AgMBAAECgf8q+UOI/avczz8/TvRYwR4J02OrRCTVWitH85fLMBrIxhZk\n+jREe1m1U5bA3ZME1xF8SNe5ggL2obsLvGa7m2G/9qmC6Z0015DEzD75xRjBDCU/\nLvJtvqdcGKp5gLUwmHttQd17fgppoQQalEh5BDypHLL2N6r9kMcnG9aO85mszpj6\nTBhkE8HRB9qO1wfQju1zgRUnCOJ+xEvDF19wIiK7x8PsrImuSdENV9uqp/tLw0hf\n5Pl4bXxxw7P8ztLo+8NSQ3+vawql7y1gvx8fNwpGLhfGS3iwuknbwpoM+2ZsWVLK\nZJVbDFIEu9iXCD9E0lZRuu0NkYW8FNe+Co8xvQUCgYEAy8kbmr3MxnKR3Bcq3IYZ\n0eECJnRRxCxgymPwwVZi0rW+WDL0dYhtlwav6+ywjB0dl0l9b91CBPsKhVPmIuvc\neNUsZs/eZ9No5s/sP2WQHCJaMN8mFrbijutLplm2FvdaLVmxHMdtloPfA0s1gEaM\nblG/WhmoQiAQhjZoQ54DifcCgYEAwqa9o801b9dnawdkehDQezMzjGLWA3IzCkCk\nm7xJVxQqdU2FhCV00u/orGObGfTxSOjPxn0suIQRJHvnD9Wj/H0bDSkR9N5GfsaN\nxQYQRCkf3UfCcKUT9hMYRkRsuC/4ERl38Ol9KgwBS0XXwkjSutEpOg6mXO1TiO0v\ngOJZqesCgYAS0yMPqlTOSCsdL66v7FtaPfTa5IfhHVBbodvNoFNEr7FDqIFYkh+9\ngcqiepzcdJwVK57AxKmimCYiptttgmg9aUPOw4kCAk+ActiaCqHDV5EJTrPQCVjo\nZuf4F/VwLa1Q3yYzSGDhNJFXVo08qkeysS6B/jjC0v9zxnbfOCuPhQKBgQCxtPi9\nasO2b7mDBSS+LEuprn0JVdJ9Iu1mFs4xQBzU2xxIK5YRpwCY815AxE79y5ndLm9C\nj1Ucv7XG0TeKRUmJYc4ona4/GA7T/wG/NmHzWHg21SS3In6u0Y//1shK/8BCHDZc\nQ0557KvhxMnOHh4FYJ962ZUYkbMJ90C/MecaMQKBgBpPVmTjq6S+NEglMcrL3HFe\nSIaVySrbmdSaacbsGbRMzN7So0pM9ocb1zwdT030ouXEvRHjdWoZ1O8aKT9nTCdn\nJGNOiFUFaVEmfcVAtyeGuCB3u+PC/CHqa6aiGr8FAemYHP6+kDnqJhoP0ScG6+Bd\n+wadK2cC3tw8GIVcuy9Z\n-----END PRIVATE KEY-----\n",
+  "client_email": "bot-telegram-sheets@fluted-karma-340904.iam.gserviceaccount.com",
+  "client_id": "102787684414684997747",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/bot-telegram-sheets%40fluted-karma-340904.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
